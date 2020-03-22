@@ -6,9 +6,37 @@
     <description>Recent content in Tags on juicebox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2020 15:39:57 +0800</lastBuildDate>
     
 	<atom:link href="https://jaycebox.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git</title>
+      <link>https://jaycebox.github.io/tags/git/</link>
+      <pubDate>Sun, 22 Mar 2020 15:39:57 +0800</pubDate>
+      
+      <guid>https://jaycebox.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first_tag</title>
+      <link>https://jaycebox.github.io/tags/first_tag/</link>
+      <pubDate>Sun, 22 Mar 2020 14:38:19 +0800</pubDate>
+      
+      <guid>https://jaycebox.github.io/tags/first_tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>second_tag</title>
+      <link>https://jaycebox.github.io/tags/second_tag/</link>
+      <pubDate>Sun, 22 Mar 2020 14:38:19 +0800</pubDate>
+      
+      <guid>https://jaycebox.github.io/tags/second_tag/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
