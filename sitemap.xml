@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://jaycebox.github.io/series/series_1/</loc>
+    <loc>https://jaycebox.github.io/series/series_1%E7%B3%BB%E5%88%971/</loc>
     <lastmod>2020-03-22T14:38:19+08:00</lastmod>
   </url>
   
@@ -54,6 +54,10 @@
   
   <url>
     <loc>https://jaycebox.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jaycebox.github.io/about/</loc>
   </url>
   
 </urlset>

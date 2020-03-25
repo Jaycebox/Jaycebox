@@ -8,5 +8,31 @@
     max-width: 80%;
 }
 
+/* TOC */
+.toc{
+    position: fixed;
+    right: 2%;
+    top: 30%;
 
-
+    max-width: 200px;
+}
+.toc ol
+{
+    padding-inline-start: 6px;
+    list-style-type: none;
+}
+.toc li{
+    font-size: 15px;
+}
+.toc li li
+{
+    font-size: 14px;
+}
+.toc li li li
+{
+    font-size: 13px;
+}
+.toc li li li li
+{
+    font-size: 12px;
+}

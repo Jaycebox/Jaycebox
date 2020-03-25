@@ -17,7 +17,21 @@
       <pubDate>Sun, 22 Mar 2020 14:38:19 +0800</pubDate>
       
       <guid>https://jaycebox.github.io/post/test/</guid>
-      <description></description>
+      <description>我是一级标题 我是二级标题 我是三级标题 我是四级标题 我是五级标题 我是六级标题（不支持toc索引） 我是粗体
+我是斜体
+我是删除体
+我是链接
+  我是引用（仿csdn）
+  我是图片：
+ 标签1，标签2，标签3，标签4
+   我是有序列表一
+  我是有序列表二
+  我是有序列表三
+     我是无序列表
+  我是无序列表
+  我是无序列表
+      这是2x3表格 xxx     xxx xxx   xxx xxx     go代码：
+package main import( &amp;#34;fmt&amp;#34; ) func main(){ fmt.</description>
     </item>
     
   </channel>
