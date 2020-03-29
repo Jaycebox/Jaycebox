@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaycebox.github.io/categories/</loc>
+    <lastmod>2020-03-27T19:26:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaycebox.github.io/categories/go/</loc>
+    <lastmod>2020-03-27T19:26:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaycebox.github.io/portfolio/hh/</loc>
+    <lastmod>2020-03-27T19:26:58+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaycebox.github.io/</loc>
-    <lastmod>2020-03-22T16:19:53+08:00</lastmod>
+    <lastmod>2020-03-27T19:26:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaycebox.github.io/portfolio/</loc>
+    <lastmod>2020-03-27T17:28:41+08:00</lastmod>
   </url>
   
   <url>
@@ -28,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://jaycebox.github.io/post/test/</loc>
+    <lastmod>2020-03-22T14:38:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaycebox.github.io/tags/first_tag/</loc>
     <lastmod>2020-03-22T14:38:19+08:00</lastmod>
   </url>
@@ -43,17 +68,8 @@
   </url>
   
   <url>
-    <loc>https://jaycebox.github.io/series/series_1%E7%B3%BB%E5%88%971/</loc>
+    <loc>https://jaycebox.github.io/series/test_series/</loc>
     <lastmod>2020-03-22T14:38:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaycebox.github.io/post/test/</loc>
-    <lastmod>2020-03-22T14:38:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaycebox.github.io/categories/</loc>
   </url>
   
   <url>

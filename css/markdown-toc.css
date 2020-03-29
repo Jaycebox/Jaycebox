@@ -1,12 +1,23 @@
+.markdown-content{
+    max-width: 80%;
+}
+
+/* 仿CSDN的引用 */
 .markdown-content blockquote{
     padding: 1px 16px;
     margin: 0px;
     border-left: 6px solid #dddfe4;
     background: #eef0f4;
 }
-.markdown-content{
-    max-width: 80%;
+
+
+/* image */
+.markdown-content img{
+    max-width: 100%;
 }
+
+/* url 改不了target */
+
 
 /* TOC */
 .toc{
@@ -33,6 +44,10 @@
     font-size: 13px;
 }
 .toc li li li li
+{
+    font-size: 12px;
+}
+.toc li li li li li
 {
     font-size: 12px;
 }
